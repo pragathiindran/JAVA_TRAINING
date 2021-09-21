@@ -2,6 +2,7 @@
 
 # DAY1 ASSIGNMAENT
 Assignment 1
+
 Implement the body for the following function:
 
 static boolean isValidDate(int year, int month, int day) {
@@ -12,6 +13,7 @@ The function should check if the parameter values constitute a valid calendar da
 Write a Java program to call the above function multiple times with different values.
 
 Assignment 2
+
 Implement the body for the following function:
 
 static boolean isPrimeNumber(int num) {
@@ -23,6 +25,7 @@ The function should check and return true only if the number passed as argument 
 Write a Java program to call the above function multiple times with different values.
 
 Assignment 3
+
 Write a function called "sortThreeNumbers", which takes 3 distinct integers and prints them in ascending order.
 
 public void sortThreeNumbers(int a, int b, int c) {
@@ -32,6 +35,7 @@ public void sortThreeNumbers(int a, int b, int c) {
 Write a Java program to call the above function multiple times with different values.
 
 Assignment 4
+
 Write a function called "sumOfPrimes", that takes two integers as input and returns the sum of all the prime numbers between the same.
 
 public int sumOfPrimes(int from, int to) {
@@ -50,6 +54,7 @@ public int fibonacci(int index) {
 }
 
 Assignment 6
+
 Write a Java program to print the following pattern:
 
 *
@@ -71,6 +76,7 @@ Divide the function into small reusable functions, if possible.
 Do not use builtin Java classes like Math
 
 Assignment 8
+
 Implement the Java function listed below:
 
 public static void printCalendar(int month, int year) {
@@ -92,6 +98,7 @@ Do not use any builtin Java classes like Date or Calendar
 Divide the function into small reusable functions, if possible.
 
 Assignment 9
+
 Write a function called "sumOfEvensAndOdds", that takes an array of integers as input and returns another array of integers of length 2. The first element in the returned array is the sum of all even numbers in the input array, and the second element in the returned array is the sum of all odd numbers in the input array.
 
 public int[] sumOfEvensAndOdds(int []nums) {
@@ -102,6 +109,7 @@ public int[] sumOfEvensAndOdds(int []nums) {
 Call the function in main, multiple times by supplying multiple values and verify the same.
 
 Assignment 10
+
 Write a function called "reverseByWords", that takes a sentence (string) as an input, and returns another string. The return value must be a sentence in which the words in the original sentence appear in reverse order.
 
 public String reverseByWords(String sentence) {
@@ -112,6 +120,7 @@ public String reverseByWords(String sentence) {
 Call the function in main, multiple times by supplying multiple values and verify the same.
 
 Assignment 11
+
 Write a function called "inWords" that takes a number between 1 and 99,99,99,999 and returns a String representing the input number in words.
 
 public String inWords(int num) {
