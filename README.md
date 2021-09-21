@@ -58,10 +58,11 @@ Assignment 6
 Write a Java program to print the following pattern:
 
 *
-**
-***
-****
-*****
+* *
+* * *
+* * * *
+* * * * *
+
 The number of rows should be based on the value of a variable "num", and the number of stars in a row is based on the row number itself.
 
 Assignment 7
